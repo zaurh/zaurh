@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **zaurhasanov666@gmail.com**
+- 📫 Reach me -> **zaurhasanov666@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
