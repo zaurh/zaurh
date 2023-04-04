@@ -11,7 +11,7 @@
  
 - 🌱 I’m currently learning **Jetpack Compose** 
 
-- 💬 Ask about **Android Develo**
+- 💬 Ask about **Android Develop**
 
 - 📫 Reach me -> **zaurhasanov666@gmail.com**
 
