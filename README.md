@@ -9,7 +9,7 @@
 
 
  
-- 🌱 I’m currently learning **Jetpack Compose.** 
+- 🌱 I’m currently learning **Jetpack Compose** 
 
 - 💬 Ask about **Android Developer.**
 
