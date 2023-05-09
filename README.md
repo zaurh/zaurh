@@ -11,11 +11,11 @@ My portfolio : https://zaurhasanov666.wixsite.com/website
 
 
  
-- 🌱 I’m currently learning **Jetpack Compose** 
+- 🌱 I’m currently learning new Jetpack Libraries 
 
 - 💬 Ask about **Android Developer**
 
-- 📫 Reach me -> **zaurhasanov666@gmail.com**
+- 📫 Reach me -> **zaurway@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
