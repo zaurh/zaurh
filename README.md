@@ -13,7 +13,7 @@ My portfolio : https://zaurhasanov666.wixsite.com/website
  
 - 🌱 I’m currently learning new Jetpack Libraries 
 
-- 💬 Ask about **Android Development*
+- 💬 Ask about **Android Development**
 
 - 📫 Reach me -> **zaurway@gmail.com**
 
