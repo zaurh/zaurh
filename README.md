@@ -11,7 +11,7 @@ My portfolio : https://zaurh.com
 
 
  
-- 🌱 I’m currently learning new Jetpack Libraries
+- 🌱 I’m currently learning new Jetpack Libraries.
 
 - 💬 Ask about **Android Development**
 
