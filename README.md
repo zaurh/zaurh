@@ -3,7 +3,7 @@ My portfolio : https://zaurh.com
 [![MasterHead](https://i.hizliresim.com/9vqfash.gif)](zaurh.github.io)
 <h1 align="center">I'm Zaur Hasanov </h1> 
 <h3 align="center">Android Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaurh&label=Profile%20views&color=0e75b6&style=flat" alt="zaurway" /> </p>
