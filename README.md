@@ -1,6 +1,6 @@
 My portfolio : https://zaurh.com
 
-[![MasterHead](https://i.hizliresim.com/9vqfash.gif)](zaurh.github.io)
+[![MasterHead](https://i.hizliresim.com/9vqfash.gif)](zaurh.com)
 <h1 align="center">I'm Zaur Hasanov </h1> 
 <h3 align="center">Android Developer</h3>
 
