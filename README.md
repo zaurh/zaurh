@@ -8,7 +8,7 @@ My portfolio : https://zaurh.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaurh&label=Profile%20views&color=0e75b6&style=flat" alt="zaurway" /> </p>
 
-
+<a href="https://linkedin.com/in/zaurway" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
 
  
 - 🌱 I’m currently learning new Jetpack Libraries and KTOR
