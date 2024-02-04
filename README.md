@@ -1,5 +1,5 @@
 
-<h1 align="center">My portfolio : https://zaurh.com</h1> 
+<h2 align="center">My portfolio : https://zaurh.com</h2> 
 
 [![MasterHead](https://i.hizliresim.com/9vqfash.gif)](zaurh.com)
 <h1 align="center">I'm Zaur Hasanov </h1> 
