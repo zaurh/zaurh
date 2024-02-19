@@ -12,7 +12,7 @@
 
 
  
-- 🌱 I’m currently learning new Jetpack Libraries and KTOR.
+- 🌱 I’m currently learning new Jetpack Libraries and KTOR
 
 - 💬 Ask about **Android Development**
 
