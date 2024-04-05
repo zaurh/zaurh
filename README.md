@@ -9,9 +9,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zaurh&label=Profile%20views&color=0e75b6&style=flat" alt="zaurway" /> </p>
 
-
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zaurh&&theme=tokyonight" alt="zaurh" />
-- 🌱 I’m currently learning Testing & KTOR 
+- 🌱 I’m currently learning Testing & KTOR   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zaurh&&theme=tokyonight" alt="zaurh" />
 
 - 💬 Ask about **Android Development** 
 
