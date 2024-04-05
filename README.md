@@ -11,9 +11,9 @@
 
 
  
-- 🌱 I’m currently learning new Jetpack Libraries and KTOR <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zaurh&&theme=tokyonight" alt="zaurh" />
+- 🌱 I’m currently learning Testing & KTOR 
 
-- 💬 Ask about **Android Development**
+- 💬 Ask about **Android Development** <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zaurh&&theme=tokyonight" alt="zaurh" />
 
 - 📫 Reach me -> **zaurway@gmail.com**
 
