@@ -17,7 +17,7 @@
 
 - 📫 Reach me -> **zaurway@gmail.com**
 
-- <img align="end" src="https://github-readme-streak-stats.herokuapp.com/?user=zaurh&&theme=tokyonight" alt="zaurh" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaurh&&theme=tokyonight" alt="zaurh" />
 
  
 
