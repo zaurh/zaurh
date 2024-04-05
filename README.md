@@ -11,9 +11,9 @@
 
 
  
-- 🌱 I’m currently learning Testing & KTOR 
+- 🌱 I’m currently learning Testing & KTOR <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zaurh&&theme=tokyonight" alt="zaurh" />
 
-- 💬 Ask about **Android Development** <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zaurh&&theme=tokyonight" alt="zaurh" />
+- 💬 Ask about **Android Development** 
 
 - 📫 Reach me -> **zaurway@gmail.com**
 
