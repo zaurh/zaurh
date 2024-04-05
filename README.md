@@ -7,7 +7,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaurh&label=Profile%20views&color=0e75b6&style=flat" alt="zaurway" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zaurh&label=Profile%20views&color=0eb64f&style=flat" alt="zaurway" /> </p>
 
 - 🌱 I’m currently learning Testing & KTOR   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zaurh&&theme=tokyonight" alt="zaurh" />
 
