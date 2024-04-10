@@ -1,7 +1,7 @@
 
-<h2 align="center">My portfolio : https://zaurh.com</h2> 
+<h2 align="center">https://zaurh.com</h2> 
 
-[![MasterHead](https://i.hizliresim.com/9vqfash.gif)](zaurh.com)
+[![MasterHead](https://i.hizliresim.com/gl7cx5q.gif)](zaurh.com)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaurh&label=Profile%20views&color=0eb64f&style=flat" alt="zaurway" /> </p>
