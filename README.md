@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://zaurh.com">
-    <img src="https://github.com/helloworlditsm/APK/blob/a47cc2dc574824402c8ff150927843dbe3e0e1f9/portfolio.svg" alt="Description of your image" width="240" height="76">
+    <img src="https://github.com/helloworlditsm/APK/blob/ad0e7e8cf4c639107acacaec885e077faffdca4b/portfolio.svg" alt="Description of your image" width="240" height="76">
   </a>
 </div>
 
